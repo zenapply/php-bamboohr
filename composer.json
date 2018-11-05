@@ -1,6 +1,6 @@
 {
     "name": "zenapply/php-bamboohr",
-    "description": "API Wrapper for Zenapply",
+    "description": "BambooHR API Wrapper",
     "keywords": [
         "laravel",
         "zenapply"
