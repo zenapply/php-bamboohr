@@ -2,7 +2,7 @@
 
 namespace Zenapply\HRIS\BambooHR;
 
-use Exceptions\BambooHRException;
+use Zenapply\HRIS\BambooHR\Exceptions\BambooHRException;
 use BambooHR\API\BambooAPI as BambooHrClient;
 
 class BambooHR extends BambooHrClient
