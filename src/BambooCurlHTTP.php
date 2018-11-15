@@ -3,6 +3,7 @@
 namespace Zenapply\HRIS\BambooHR;
 
 use BambooHR\API\BambooCurlHTTP as BaseBambooCurlHTTP;
+use BambooHR\API\BambooHTTPRequest;
 use Exceptions\BambooHRException;
 
 /**
